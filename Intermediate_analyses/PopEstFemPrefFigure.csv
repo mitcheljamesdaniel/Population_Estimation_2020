@@ -1,0 +1,601 @@
+﻿Treatment,Consanguinity,Pref,Trial
+Control,0,0.333333333,1
+Control,0.125,0.666666667,1
+Control,0.25,0.333333333,1
+Control,0.375,0.5,1
+Control,0.5,0.166666667,1
+Control,0,0.25,2
+Control,0.125,0.5,2
+Control,0.25,0.2,2
+Control,0.375,0.4,2
+Control,0.5,0,2
+Control,0,0.25,3
+Control,0.125,0.428571429,3
+Control,0.25,0.4,3
+Control,0.375,0.25,3
+Control,0.5,0.140137437,3
+Control,0,0.333333333,4
+Control,0.125,0.142857143,4
+Control,0.25,0.25,4
+Control,0.375,0.4,4
+Control,0.5,0.125,4
+Control,0,0.428571429,5
+Control,0.125,0.2,5
+Control,0.25,0.5,5
+Control,0.375,0.428571429,5
+Control,0.5,0.125,5
+Control,0,0.8,6
+Control,0.125,0.166666667,6
+Control,0.25,0.363636364,6
+Control,0.375,0.4,6
+Control,0.5,0.1,6
+Control,0,0.625,7
+Control,0.125,0.375,7
+Control,0.25,0.6,7
+Control,0.375,0.230769231,7
+Control,0.5,0.5,7
+Control,0,0.166666667,8
+Control,0.125,0.285714286,8
+Control,0.25,0.1,8
+Control,0.375,0.25,8
+Control,0.5,0.142857143,8
+Control,0,0.6,9
+Control,0.125,0.571428571,9
+Control,0.25,0.5,9
+Control,0.375,0.4,9
+Control,0.5,0.111111111,9
+Control,0,0.666666667,10
+Control,0.125,0.4,10
+Control,0.25,0.333333333,10
+Control,0.375,0.2,10
+Control,0.5,0.125,10
+Control,0,0.636363636,11
+Control,0.125,0.5,11
+Control,0.25,0.375,11
+Control,0.375,0.666666667,11
+Control,0.5,0.083333333,11
+Control,0,0.222222222,12
+Control,0.125,0.4,12
+Control,0.25,0.25,12
+Control,0.375,0.4,12
+Control,0.5,0.333333333,12
+Control,0,0.166666667,13
+Control,0.125,0.4,13
+Control,0.25,0.3,13
+Control,0.375,0.066666667,13
+Control,0.5,0,13
+Control,0,0.166666667,14
+Control,0.125,0.5,14
+Control,0.25,0.125,14
+Control,0.375,0,14
+Control,0.5,0.2,14
+Control,0,0.714285714,15
+Control,0.125,0.333333333,15
+Control,0.25,0.416666667,15
+Control,0.375,0.25,15
+Control,0.5,0.125,15
+Control,0,0.125,16
+Control,0.125,0.428571429,16
+Control,0.25,0.25,16
+Control,0.375,0.5,16
+Control,0.5,0.5,16
+Control,0,0.266666667,17
+Control,0.125,0.333333333,17
+Control,0.25,0.1,17
+Control,0.375,0.222222222,17
+Control,0.5,0.125,17
+Control,0,0.7,18
+Control,0.125,0.5,18
+Control,0.25,0.2,18
+Control,0.375,0,18
+Control,0.5,0,18
+Control,0,0.125,19
+Control,0.125,0.375,19
+Control,0.25,0.5,19
+Control,0.375,0.142857143,19
+Control,0.5,0,19
+Control,0,0,20
+Control,0.125,0.25,20
+Control,0.25,0,20
+Control,0.375,0.1,20
+Control,0.5,0,20
+Control,0,0.636363636,21
+Control,0.125,0.4,21
+Control,0.25,0.444444444,21
+Control,0.375,0.333333333,21
+Control,0.5,0.333333333,21
+Control,0,0.733333333,22
+Control,0.125,0.2,22
+Control,0.25,0.25,22
+Control,0.375,0.125,22
+Control,0.5,0.25,22
+Control,0,0.428571429,23
+Control,0.125,0.25,23
+Control,0.25,0.428571429,23
+Control,0.375,0.125,23
+Control,0.5,0,23
+Control,0,0.6,24
+Control,0.125,0.444444444,24
+Control,0.25,0.333333333,24
+Control,0.375,0.166666667,24
+Control,0.5,0,24
+Control,0,0.214285714,25
+Control,0.125,0.4,25
+Control,0.25,0.571428571,25
+Control,0.375,0.125,25
+Control,0.5,0.1,25
+Control,0,0.785714286,26
+Control,0.125,0.25,26
+Control,0.25,0.25,26
+Control,0.375,0,26
+Control,0.5,0,26
+Control,0,0.5,27
+Control,0.125,0.333333333,27
+Control,0.25,0.166666667,27
+Control,0.375,0.333333333,27
+Control,0.5,0.1,27
+Control,0,0.375,28
+Control,0.125,0.5,28
+Control,0.25,0.4,28
+Control,0.375,0.2,28
+Control,0.5,0,28
+Control,0,0.076923077,29
+Control,0.125,0.6,29
+Control,0.25,0.5,29
+Control,0.375,0,29
+Control,0.5,0.083333333,29
+Control,0,0.866666667,30
+Control,0.125,0.285714286,30
+Control,0.25,0.5,30
+Control,0.375,0.111111111,30
+Control,0.5,0,30
+Control,0,0.866666667,31
+Control,0.125,0.230769231,31
+Control,0.25,0,31
+Control,0.375,0.111111111,31
+Control,0.5,0,31
+Control,0,0.333333333,32
+Control,0.125,0.166666667,32
+Control,0.25,0.285714286,32
+Control,0.375,0.166666667,32
+Control,0.5,0.066666667,32
+Control,0,0.888888889,33
+Control,0.125,0.5,33
+Control,0.25,0,33
+Control,0.375,0.25,33
+Control,0.5,0,33
+Control,0,0.25,34
+Control,0.125,0.25,34
+Control,0.25,0.375,34
+Control,0.375,0,34
+Control,0.5,0,34
+Control,0,0.333333333,35
+Control,0.125,1,35
+Control,0.25,0.125,35
+Control,0.375,0.125,35
+Control,0.5,0,35
+Control,0,0.545454545,36
+Control,0.125,0.5,36
+Control,0.25,0.25,36
+Control,0.375,0.125,36
+Control,0.5,0,36
+Control,0,0.75,37
+Control,0.125,0.222222222,37
+Control,0.25,0.4,37
+Control,0.375,0.125,37
+Control,0.5,0.230769231,37
+Control,0,0.285714286,38
+Control,0.125,0.25,38
+Control,0.25,0,38
+Control,0.375,0.142857143,38
+Control,0.5,0,38
+Control,0,0.333333333,39
+Control,0.125,0.166666667,39
+Control,0.25,0.1,39
+Control,0.375,0,39
+Control,0.5,0,39
+Control,0,0.285714286,40
+Control,0.125,0.111111111,40
+Control,0.25,0.25,40
+Control,0.375,0,40
+Control,0.5,0,40
+High similarity,0,0.142857143,41
+High similarity,0.125,0.6,41
+High similarity,0.25,0.428571429,41
+High similarity,0.375,0.333333333,41
+High similarity,0.5,0.2,41
+High similarity,0,0.4,42
+High similarity,0.125,0.45,42
+High similarity,0.25,0.25,42
+High similarity,0.375,0,42
+High similarity,0.5,0,42
+High similarity,0,0.8,43
+High similarity,0.125,0.8,43
+High similarity,0.25,0.2,43
+High similarity,0.375,0.142857143,43
+High similarity,0.5,0,43
+High similarity,0,1,44
+High similarity,0.125,0.5,44
+High similarity,0.25,0.25,44
+High similarity,0.375,0.333333333,44
+High similarity,0.5,0.2,44
+High similarity,0,0.6,45
+High similarity,0.125,0.333333333,45
+High similarity,0.25,0.2,45
+High similarity,0.375,0,45
+High similarity,0.5,0,45
+High similarity,0,0.4,46
+High similarity,0.125,0.333333333,46
+High similarity,0.25,0.083333333,46
+High similarity,0.375,0.2,46
+High similarity,0.5,0,46
+High similarity,0,0.8,47
+High similarity,0.125,0.5,47
+High similarity,0.25,0.6,47
+High similarity,0.375,0,47
+High similarity,0.5,0,47
+High similarity,0,0.6,48
+High similarity,0.125,0.75,48
+High similarity,0.25,0.4,48
+High similarity,0.375,0.2,48
+High similarity,0.5,0,48
+High similarity,0,0.333333333,49
+High similarity,0.125,0.4,49
+High similarity,0.25,0.3,49
+High similarity,0.375,0.25,49
+High similarity,0.5,0.333333333,49
+High similarity,0,0.75,50
+High similarity,0.125,0.5,50
+High similarity,0.25,0.571428571,50
+High similarity,0.375,0.2,50
+High similarity,0.5,0.083333333,50
+High similarity,0,0.142857143,51
+High similarity,0.125,0.6,51
+High similarity,0.25,0.2,51
+High similarity,0.375,0.5,51
+High similarity,0.5,0.4,51
+High similarity,0,0.8,52
+High similarity,0.125,0.6,52
+High similarity,0.25,0.6,52
+High similarity,0.375,0.25,52
+High similarity,0.5,0,52
+High similarity,0,0.6,53
+High similarity,0.125,0.125,53
+High similarity,0.25,0.4,53
+High similarity,0.375,0.333333333,53
+High similarity,0.5,0,53
+High similarity,0,0.75,54
+High similarity,0.125,0.4,54
+High similarity,0.25,0.75,54
+High similarity,0.375,0,54
+High similarity,0.5,0,54
+High similarity,0,0.571428571,55
+High similarity,0.125,0.375,55
+High similarity,0.25,0.375,55
+High similarity,0.375,0.1,55
+High similarity,0.5,0.3,55
+High similarity,0,0.5,56
+High similarity,0.125,0.6,56
+High similarity,0.25,0.142857143,56
+High similarity,0.375,0,56
+High similarity,0.5,0.4,56
+High similarity,0,1,57
+High similarity,0.125,0.666666667,57
+High similarity,0.25,0.333333333,57
+High similarity,0.375,0.2,57
+High similarity,0.5,0.125,57
+High similarity,0,0.5,58
+High similarity,0.125,0.4,58
+High similarity,0.25,0.5,58
+High similarity,0.375,0,58
+High similarity,0.5,0.2,58
+High similarity,0,0.5,59
+High similarity,0.125,0.4,59
+High similarity,0.25,0.4,59
+High similarity,0.375,0.333333333,59
+High similarity,0.5,0,59
+High similarity,0,0.6,60
+High similarity,0.125,0.5,60
+High similarity,0.25,0.5,60
+High similarity,0.375,0.5,60
+High similarity,0.5,0.333333333,60
+High similarity,0,0.8,61
+High similarity,0.125,0.2,61
+High similarity,0.25,0.333333333,61
+High similarity,0.375,0.571428571,61
+High similarity,0.5,0.25,61
+High similarity,0,0.333333333,62
+High similarity,0.125,0.6,62
+High similarity,0.25,0.1,62
+High similarity,0.375,0.333333333,62
+High similarity,0.5,0,62
+High similarity,0,0.571428571,63
+High similarity,0.125,0.333333333,63
+High similarity,0.25,0.333333333,63
+High similarity,0.375,0.333333333,63
+High similarity,0.5,0,63
+High similarity,0,0.5,64
+High similarity,0.125,0.25,64
+High similarity,0.25,0.2,64
+High similarity,0.375,0.333333333,64
+High similarity,0.5,0.125,64
+High similarity,0,0.714285714,65
+High similarity,0.125,0.4,65
+High similarity,0.25,0.166666667,65
+High similarity,0.375,0,65
+High similarity,0.5,0,65
+High similarity,0,0.6,66
+High similarity,0.125,0.75,66
+High similarity,0.25,0.571428571,66
+High similarity,0.375,0.5,66
+High similarity,0.5,0.333333333,66
+High similarity,0,0.666666667,67
+High similarity,0.125,0.5,67
+High similarity,0.25,0,67
+High similarity,0.375,0.333333333,67
+High similarity,0.5,0.125,67
+High similarity,0,0.666666667,68
+High similarity,0.125,0.4,68
+High similarity,0.25,0.166666667,68
+High similarity,0.375,0.25,68
+High similarity,0.5,0,68
+High similarity,0,0.25,69
+High similarity,0.125,0.666666667,69
+High similarity,0.25,0.6,69
+High similarity,0.375,0.4,69
+High similarity,0.5,0.25,69
+High similarity,0,0.4,70
+High similarity,0.125,0.25,70
+High similarity,0.25,0.4,70
+High similarity,0.375,0.2,70
+High similarity,0.5,0,70
+High similarity,0,0.333333333,71
+High similarity,0.125,0.166666667,71
+High similarity,0.25,0.3,71
+High similarity,0.375,0.4,71
+High similarity,0.5,0,71
+High similarity,0,0.1,72
+High similarity,0.125,0.2,72
+High similarity,0.25,0.166666667,72
+High similarity,0.375,0.4,72
+High similarity,0.5,0.166666667,72
+High similarity,0,0.285714286,73
+High similarity,0.125,0.4,73
+High similarity,0.25,0.4,73
+High similarity,0.375,0.333333333,73
+High similarity,0.5,0,73
+High similarity,0,0.363636364,74
+High similarity,0.125,0.25,74
+High similarity,0.25,0.4,74
+High similarity,0.375,0.2,74
+High similarity,0.5,0.1,74
+High similarity,0,0.5,75
+High similarity,0.125,0.363636364,75
+High similarity,0.25,0.6,75
+High similarity,0.375,0.333333333,75
+High similarity,0.5,0.25,75
+High similarity,0,0.4,76
+High similarity,0.125,0.4,76
+High similarity,0.25,0.25,76
+High similarity,0.375,1,76
+High similarity,0.5,0.4,76
+High similarity,0,0.75,77
+High similarity,0.125,0.5,77
+High similarity,0.25,0.5,77
+High similarity,0.375,0.333333333,77
+High similarity,0.5,0,77
+High similarity,0,0.6,78
+High similarity,0.125,0.25,78
+High similarity,0.25,0.25,78
+High similarity,0.375,0.125,78
+High similarity,0.5,0.2,78
+High similarity,0,0.625,79
+High similarity,0.125,0.25,79
+High similarity,0.25,0.5,79
+High similarity,0.375,0,79
+High similarity,0.5,0.333333333,79
+High similarity,0,0.4,80
+High similarity,0.125,0.5,80
+High similarity,0.25,0.2,80
+High similarity,0.375,0,80
+High similarity,0.5,0.75,80
+High variance,0,0.3,81
+High variance,0.125,0.272727273,81
+High variance,0.25,0.666666667,81
+High variance,0.375,0.272727273,81
+High variance,0.5,0.166666667,81
+High variance,0,0,82
+High variance,0.125,0.333333333,82
+High variance,0.25,0.5,82
+High variance,0.375,0.333333333,82
+High variance,0.5,0.3,82
+High variance,0,0.65,83
+High variance,0.125,0.6,83
+High variance,0.25,0.3,83
+High variance,0.375,0.272727273,83
+High variance,0.5,0.5,83
+High variance,0,0.375,84
+High variance,0.125,0.5,84
+High variance,0.25,0.25,84
+High variance,0.375,0.25,84
+High variance,0.5,0.125,84
+High variance,0,0.375,85
+High variance,0.125,0.4,85
+High variance,0.25,0.3,85
+High variance,0.375,0.4,85
+High variance,0.5,0.166666667,85
+High variance,0,0.333333333,86
+High variance,0.125,0.166666667,86
+High variance,0.25,0.125,86
+High variance,0.375,0.333333333,86
+High variance,0.5,0.4,86
+High variance,0,0.333333333,87
+High variance,0.125,0.333333333,87
+High variance,0.25,0.333333333,87
+High variance,0.375,0.4,87
+High variance,0.5,0.125,87
+High variance,0,0.2,88
+High variance,0.125,0.5,88
+High variance,0.25,0.3,88
+High variance,0.375,0.2,88
+High variance,0.5,0.125,88
+High variance,0,0.2,89
+High variance,0.125,0.8,89
+High variance,0.25,0.333333333,89
+High variance,0.375,0.25,89
+High variance,0.5,0.125,89
+High variance,0,0.375,90
+High variance,0.125,0.25,90
+High variance,0.25,0.25,90
+High variance,0.375,0.4,90
+High variance,0.5,0.166666667,90
+High variance,0,0.25,91
+High variance,0.125,0.333333333,91
+High variance,0.25,0.142857143,91
+High variance,0.375,0.125,91
+High variance,0.5,0.7,91
+High variance,0,0.25,92
+High variance,0.125,0.4,92
+High variance,0.25,0.25,92
+High variance,0.375,0.25,92
+High variance,0.5,0.2,92
+High variance,0,0.2,93
+High variance,0.125,0.333333333,93
+High variance,0.25,0.2,93
+High variance,0.375,0.2,93
+High variance,0.5,0.1,93
+High variance,0,0.125,94
+High variance,0.125,0.5,94
+High variance,0.25,0.25,94
+High variance,0.375,0.4,94
+High variance,0.5,0.1,94
+High variance,0,0.25,95
+High variance,0.125,0.428571429,95
+High variance,0.25,0.2,95
+High variance,0.375,0.125,95
+High variance,0.5,0.2,95
+High variance,0,0.4,96
+High variance,0.125,0.25,96
+High variance,0.25,0.333333333,96
+High variance,0.375,0.2,96
+High variance,0.5,0.125,96
+High variance,0,0.5,97
+High variance,0.125,0.375,97
+High variance,0.25,0.25,97
+High variance,0.375,0.333333333,97
+High variance,0.5,0.125,97
+High variance,0,0.5,98
+High variance,0.125,0.333333333,98
+High variance,0.25,0.25,98
+High variance,0.375,0.333333333,98
+High variance,0.5,0.1,98
+High variance,0,0.333333333,99
+High variance,0.125,0.3,99
+High variance,0.25,0.125,99
+High variance,0.375,0.125,99
+High variance,0.5,0.5,99
+High variance,0,0.25,100
+High variance,0.125,0.166666667,100
+High variance,0.25,0.333333333,100
+High variance,0.375,0.2,100
+High variance,0.5,0.166666667,100
+High variance,0,0.4,101
+High variance,0.125,0.2,101
+High variance,0.25,0.4,101
+High variance,0.375,0.1,101
+High variance,0.5,0,101
+High variance,0,0.25,102
+High variance,0.125,0.333333333,102
+High variance,0.25,0.333333333,102
+High variance,0.375,0.2,102
+High variance,0.5,0,102
+High variance,0,0.333333333,103
+High variance,0.125,0.25,103
+High variance,0.25,0.25,103
+High variance,0.375,0.2,103
+High variance,0.5,0.166666667,103
+High variance,0,0.5,104
+High variance,0.125,0.4,104
+High variance,0.25,0.2,104
+High variance,0.375,0.125,104
+High variance,0.5,0,104
+High variance,0,0.4,105
+High variance,0.125,0.125,105
+High variance,0.25,0.1,105
+High variance,0.375,0.1,105
+High variance,0.5,0.125,105
+High variance,0,0.125,106
+High variance,0.125,0.4,106
+High variance,0.25,0.6,106
+High variance,0.375,0.4,106
+High variance,0.5,0.4,106
+High variance,0,0.333333333,107
+High variance,0.125,0.2,107
+High variance,0.25,0.166666667,107
+High variance,0.375,0.125,107
+High variance,0.5,0.2,107
+High variance,0,0.4,108
+High variance,0.125,0.222222222,108
+High variance,0.25,0.2,108
+High variance,0.375,0,108
+High variance,0.5,0,108
+High variance,0,0.25,109
+High variance,0.125,0.25,109
+High variance,0.25,0.2,109
+High variance,0.375,0.2,109
+High variance,0.5,0,109
+High variance,0,0.2,110
+High variance,0.125,0.4,110
+High variance,0.25,0.25,110
+High variance,0.375,0.2,110
+High variance,0.5,0.333333333,110
+High variance,0,0.4,111
+High variance,0.125,0.5,111
+High variance,0.25,0.166666667,111
+High variance,0.375,0.333333333,111
+High variance,0.5,0,111
+High variance,0,0.4,112
+High variance,0.125,0.5,112
+High variance,0.25,0.2,112
+High variance,0.375,0,112
+High variance,0.5,0.333333333,112
+High variance,0,0.25,113
+High variance,0.125,0.25,113
+High variance,0.25,0.111111111,113
+High variance,0.375,0,113
+High variance,0.5,0.333333333,113
+High variance,0,0.2,114
+High variance,0.125,0.6,114
+High variance,0.25,0.25,114
+High variance,0.375,0.142857143,114
+High variance,0.5,0,114
+High variance,0,0.25,115
+High variance,0.125,0.333333333,115
+High variance,0.25,0.1,115
+High variance,0.375,0,115
+High variance,0.5,0.125,115
+High variance,0,0.285714286,116
+High variance,0.125,0.3,116
+High variance,0.25,0.125,116
+High variance,0.375,0.2,116
+High variance,0.5,0.2,116
+High variance,0,0.375,117
+High variance,0.125,0.5,117
+High variance,0.25,0.4,117
+High variance,0.375,0,117
+High variance,0.5,0.45,117
+High variance,0,0.6,118
+High variance,0.125,0.2,118
+High variance,0.25,0.375,118
+High variance,0.375,0.2,118
+High variance,0.5,0.333333333,118
+High variance,0,0.5,119
+High variance,0.125,0,119
+High variance,0.25,0.571428571,119
+High variance,0.375,0.083333333,119
+High variance,0.5,0,119
+High variance,0,0.4,120
+High variance,0.125,0.333333333,120
+High variance,0.25,0.2,120
+High variance,0.375,0.2,120
+High variance,0.5,0.25,120
